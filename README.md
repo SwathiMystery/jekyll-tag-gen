@@ -1,13 +1,13 @@
 # jekyll-tag-gen
-A simple shell script which generates the directories and file in the following structure.
+A simple shell script which generates the directories and a file in the following structure.
 `tag/${TAG_NAME}/index.html`
 in your `${REPOSITORY_HOME}`. It will add the necessary content in each of those `index.html`
 file.
 
 
 ## How to execute?
-- Make changes to script by editing it with the name of your `$REPO` ie. `domain.name.com`.
-  This is one-time effort.
+- Make changes to script `generate_tags.sh` by editing it with the name of your `$REPO` 
+ie. `domain.name.com`. This is one-time effort.
 ```
 BLOG_URL="femgeekz.github.io"
 ```
@@ -17,7 +17,7 @@ BLOG_URL="femgeekz.github.io"
 ```
 TAG_LAYOUT_FILE_NAME="tag_index"
 ```
-- Now, execute it with the command `./generate_tag.sh`
+- Now, execute it with the command `./generate_tags.sh`
 
 
 ## How to verifiy?
