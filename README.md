@@ -20,7 +20,7 @@ TAG_LAYOUT_FILE_NAME="tag_index"
 - Now, execute it with the command `./generate_tags.sh`
 
 
-## How to verifiy?
+## How to verify?
 - You should now be able to see `tag` directory and tag named directories in it.
 - Inside each of those tags, you can see index.html with the content as below.
   For `jekyll` tag,
