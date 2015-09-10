@@ -35,5 +35,6 @@ tag: jekyll
 - Open the Browser, hit the URL [Blog](http://localhost:4000/tag/jekyll) , to see all `jekyll` tags
  
 ## Contributing
-This script was written when I was about fall :sleeping: , so if you get to catch any bug or see any issue, please feel
-free to raise an issue!
+This script was written when I was about fall :sleeping: , so if you get to catch any bug or see any issue, please feel free to raise an issue!
+
+Happy Tagging! :smile:
